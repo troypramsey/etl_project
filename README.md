@@ -2,7 +2,7 @@
 
 # Group Memebers
 
-Troy Ramsey, Justan Plumlee, Hermela Mekonnen, Darn Hamilton, Elaine Hamilton
+Troy Ramsey, Justan Plumlee, Hermela Mekonnen, Daren Hamilton, Elaine Hamilton
 
 # Data sets
 
