@@ -11,7 +11,9 @@ We are working with the two soccer data sets below to create a broad picture bet
 -	https://www.kaggle.com/sagunsh/fifa-20-complete-player-dataset
 -	https://www.kaggle.com/idoyo92/epl-stats-20192020?select=players_1920_fin.csv
 
-# Data frame – The connecting piece, or join, between the two data sets.
+# Data frame
+
+The connecting piece, or join, between the two data sets.
 
 -	Player name
 
