@@ -29,7 +29,7 @@ The connecting piece, or join, between the two data sets.
 - Run jupyter notebook file ETL_project
     - Database will be created automatically in postgres when ETL_project.ipynb is run.
     - Dataframes will also be automatically be exported to the created database.
-- Run sample query which will join both epl and fifa tables then select all data from both; verifying integrity of data.
+- Run query.sql, which will join both epl and fifa tables then select all data from both; verifying integrity of data.
 
 # Data Exploration
 
