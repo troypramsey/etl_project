@@ -1,6 +1,6 @@
 # etl_project
 
-# Group Memebers
+# Group Members
 
 Troy Ramsey, Justan Plumlee, Hermela Mekonnen, Daren Hamilton, Elaine Hamilton
 
